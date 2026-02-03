@@ -180,6 +180,3 @@ Brute force authentication attempts were confirmed against Azure virtual machine
 ---
 
 🛡️ *This scenario reflects real-world SOC incident response practices using Microsoft Sentinel.*
-
-Just say the word 👊
-```
