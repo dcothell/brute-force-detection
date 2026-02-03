@@ -43,7 +43,7 @@ This scenario follows the **NIST Incident Response Lifecycle**:
 ### Analytics Rule Configuration
 
 **Rule Name:**  
-`unr3st – Brute Force Attempt Detection`
+`[omitted] – Brute Force Attempt Detection`
 
 **Description:**  
 Detects brute force authentication attempts where the same IP address fails to log into the same virtual machine multiple times within a short period.
