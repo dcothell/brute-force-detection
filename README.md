@@ -1,4 +1,4 @@
-# 🛡️ Scenario 1: Virtual Machine Brute Force Detection & Incident Response  
+# 🛡️ Virtual Machine Brute Force Detection & Incident Response  
 **Platform:** Microsoft Sentinel  
 **Log Source:** Microsoft Defender for Endpoint  
 **Technique:** Brute Force Authentication (MITRE ATT&CK T1110)
